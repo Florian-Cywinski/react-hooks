@@ -1,5 +1,6 @@
 import UseRefExample1 from './components/UseRefExample1'
 import UseRefExample2 from './components/UseRefExample2'
+import UseRefExample3 from './components/UseRefExample3'
 
 
 function App() {
@@ -8,6 +9,8 @@ function App() {
       <UseRefExample1 />
       <br /><hr />
       <UseRefExample2 />
+      <br /><hr />
+      <UseRefExample3 />
     </div>
   )
 }
